@@ -6,4 +6,4 @@ categories: update
 ---
 Let's see a picture 
 
-![kids in SF](/img/photo.jpg)
+![kids in SF](/assets/images/photo.jpg)
