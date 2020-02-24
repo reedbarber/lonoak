@@ -6,4 +6,4 @@ categories: update
 ---
 Let's see a picture 
 
-![kids in San Francisco](/assets/images/photo.jpeg){:height="50%" width="50%"}
+![kids in San Francisco](/assets/images/photo.jpeg){:height="50%" width="50%"}{:class="img-responsive"}
